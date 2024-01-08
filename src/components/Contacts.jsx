@@ -28,7 +28,10 @@ export default function Contacts({ contacts, changeChat }) {
       {currentUserImage && currentUserImage && (
         <Container>
           <div className="brand">
-            <img src={Logo} alt="logo" />
+            <img 
+              src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngall.com%2Fwp-content%2Fuploads%2F10%2FMessage-Logo.png&f=1&nofb=1&ipt=eb407cf281beb5fcf227a19bd363eece632e02f06127639486a38c77cb00f41b&ipo=images"
+             
+            alt="logo" />
             <h3>CHAT APP</h3>
           </div>
           <div className="contacts">
