@@ -14,9 +14,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-Check out the live demo [here](https://thumb-stack-assignment-frontend.vercel.app/).
+#Check out the live demo [here](https://thumb-stack-assignment-frontend.vercel.app/).
 
-Also check out backent code [here](https://github.com/KartikMalaganavar/ThumbStack-assignment-backend.git) 
+#Also check out backent code [here](https://github.com/KartikMalaganavar/ThumbStack-assignment-backend.git) 
 
 
 ## Learn More
